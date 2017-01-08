@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Jan 08 22:53:48 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-0159-8012-ba4f-0000024b9d78 
+on database directory memory:/Users/nirozjungkarki/Documents/workspace/DbUnitTest/PokemonDB  with class loader sun.misc.Launcher$AppClassLoader@12a3a380 
+Loaded from file:/Users/nirozjungkarki/m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_60-b27
+user.dir=/Users/nirozjungkarki/Documents/workspace/DbUnitTest
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
